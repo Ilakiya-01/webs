@@ -1,0 +1,44 @@
+p{
+    font-family: Arial;
+}
+.font-end
+{
+font-weight: bold;
+width: 310px;
+margin-top: 20px;
+line-height: 25px;
+font-size: 18px;
+}
+.sec-font
+{color: rgb(96, 96, 96);
+font-size: 13px;
+margin-bottom: 20px;
+}
+.author-font
+{
+color: rgb(96, 96, 96);
+font-size: 14px;
+margin-bottom: 20px;
+}
+.ai-font
+{
+width: 285px;
+font-size: 14px;
+color: rgb(96, 96, 96);
+margin-bottom: 100px;
+}
+.last-font
+{
+background-color: rgb(227, 65, 64);
+color: white;
+padding-left: 155px; 
+padding-top: 15px;
+padding-bottom: 15px;
+font-size: 14px;
+margin-right: 545px;
+}
+.span-shop:hover
+{
+cursor: pointer;
+text-decoration: underline;
+}
